@@ -455,7 +455,7 @@ const Feed: React.FC = () => {
                     <video
                       ref={(el) => handleVideoRef(post.id, el)}
                       data-video-id={post.id}
-                      src={post.fullUrl:}
+                      src={post.fullUrl}
                       poster={post.thumbnail || undefined}
                       className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-[1.02]"
                       muted
