@@ -35,8 +35,8 @@ const Feed: React.FC = () => {
       thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-01-thumbnail.webp',
       likes: 245,
       comments: 18,
-      profileName: "Ana",
-      profileHandle: "@Ana",
+      profileName: "Andressa",
+      profileHandle: "@Andressa",
       profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
@@ -47,8 +47,8 @@ const Feed: React.FC = () => {
       likes: 432,
       comments: 67,
       caption: "Me masturbando gostoso pra vc 😈",
-      profileName: "Ana",
-      profileHandle: "@Ana",
+      profileName: "Andressa",
+      profileHandle: "@",
       profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
@@ -59,8 +59,8 @@ const Feed: React.FC = () => {
       likes: 189,
       comments: 23,
       caption: "Bomm dia meus amores... 😘",
-      profileName: "Ana",
-      profileHandle: "@Ana",
+      profileName: "Andressa",
+      profileHandle: "@Andressa",
       profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
@@ -71,8 +71,8 @@ const Feed: React.FC = () => {
       likes: 432,
       comments: 67,
       caption: "Me masturbando gostoso pra vc 😈",
-      profileName: "Ana",
-      profileHandle: "@Ana",
+      profileName: "Andressa",
+      profileHandle: "@Andressa",
       profileImage: "http://dl.dropboxusercontent.com/s/a11ge0yuheuafxt2p71qm/f3.webp?rlkey=d6nxoyrurv1bot8rw8m5r8z8i&st=kuir2m3j&dl=0"
     },
     {
@@ -83,8 +83,8 @@ const Feed: React.FC = () => {
       likes: 189,
       comments: 23,
       caption: "Solzinho gostoso... 😘",
-      profileName: "Ana",
-      profileHandle: "@Ana",
+      profileName: "Andressa",
+      profileHandle: "@Andressa",
       profileImage: "http://dl.dropboxusercontent.com/s/a11ge0yuheuafxt2p71qm/f3.webp?rlkey=d6nxoyrurv1bot8rw8m5r8z8i&st=kuir2m3j&dl=0"      
     },
     {
@@ -95,8 +95,8 @@ const Feed: React.FC = () => {
       likes: 567,
       comments: 89,
       caption: " ",
-      profileName: "Ana",
-      profileHandle: "@Ana",
+      profileName: "Andressa",
+      profileHandle: "@Andressa",
       profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
@@ -107,8 +107,8 @@ const Feed: React.FC = () => {
       likes: 567,
       comments: 89,
       caption: "",
-      profileName: "Ana",
-      profileHandle: "@Ana",
+      profileName: "Andressa",
+      profileHandle: "@Andressa",
       profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
@@ -119,8 +119,8 @@ const Feed: React.FC = () => {
       likes: 567,
       comments: 89,
       caption: "",
-      profileName: "Ana",
-      profileHandle: "@Ana",
+      profileName: "Andressa",
+      profileHandle: "@Andressa",
       profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
@@ -131,8 +131,8 @@ const Feed: React.FC = () => {
       likes: 567,
       comments: 89,
       caption: "",
-      profileName: "Ana",
-      profileHandle: "@Ana",
+      profileName: "Andressa",
+      profileHandle: "@Andressa",
       profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
@@ -143,8 +143,8 @@ const Feed: React.FC = () => {
       likes: 567,
       comments: 89,
       caption: " ",
-      profileName: "Ana",
-      profileHandle: "@Ana",
+      profileName: "Andressa",
+      profileHandle: "@Andressa",
       profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
@@ -155,8 +155,8 @@ const Feed: React.FC = () => {
       likes: 567,
       comments: 89,
       caption: " ",
-      profileName: "Ana",
-      profileHandle: "@Ana",
+      profileName: "Andressa",
+      profileHandle: "@Andressa",
       profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
@@ -167,8 +167,8 @@ const Feed: React.FC = () => {
       likes: 567,
       comments: 89,
       caption: " ",
-      profileName: "Ana",
-      profileHandle: "@Ana",
+      profileName: "Andressa",
+      profileHandle: "@Andressa",
       profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
@@ -179,8 +179,8 @@ const Feed: React.FC = () => {
       likes: 567,
       comments: 89,
       caption: " ",
-      profileName: "Ana",
-      profileHandle: "@Ana",
+      profileName: "Andressa",
+      profileHandle: "@Andressa",
       profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
@@ -191,8 +191,8 @@ const Feed: React.FC = () => {
       likes: 567,
       comments: 89,
       caption: " ",
-      profileName: "Ana",
-      profileHandle: "@Ana",
+      profileName: "Andressa",
+      profileHandle: "@Andressa",
       profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
@@ -203,8 +203,8 @@ const Feed: React.FC = () => {
       likes: 567,
       comments: 89,
       caption: " ",
-      profileName: "Ana",
-      profileHandle: "@Ana",
+      profileName: "Andressa",
+      profileHandle: "@Andressa",
       profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
@@ -215,8 +215,8 @@ const Feed: React.FC = () => {
       likes: 567,
       comments: 89,
       caption: " ",
-      profileName: "Ana",
-      profileHandle: "@Ana",
+      profileName: "Andressa",
+      profileHandle: "@Andressa",
       profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
@@ -227,8 +227,8 @@ const Feed: React.FC = () => {
       likes: 567,
       comments: 89,
       caption: " ",
-      profileName: "Ana",
-      profileHandle: "@Ana",
+      profileName: "Andressa",
+      profileHandle: "@Andressa",
       profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
@@ -239,8 +239,8 @@ const Feed: React.FC = () => {
       likes: 567,
       comments: 89,
       caption: " ",
-      profileName: "Ana",
-      profileHandle: "@Ana",
+      profileName: "Andressa",
+      profileHandle: "@Andressa",
       profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
   ];
