@@ -101,7 +101,7 @@ function App() {
             </div>
             <span className="text-xs mt-1 font-medium">Feed</span>
           </button>
-          /*
+        
          {/* 
           
           <button
@@ -132,7 +132,7 @@ function App() {
             <span className="text-xs mt-1 font-medium">Chat</span>
           </button>
 
-          comentário aqui */} */
+          comentário aqui */}
         </div>
       </nav>
     </div>
