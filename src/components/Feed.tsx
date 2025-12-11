@@ -5,7 +5,7 @@ import MediaViewer from './MediaViewer';
 interface MediaItem {
   id: number;
   type: 'video' | 'video';
-  fullUrl string;
+  fullUrl: string;
   thumbnail: string;
   likes: number;
   comments: number;
@@ -31,7 +31,7 @@ const Feed: React.FC = () => {
     {
       id: 1,
       type: 'video',
-      fullUrl 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-01.mp4',
+      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-01.mp4',
       thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-01-thumbnail.webp',
       likes: 245,
       comments: 18,
@@ -42,7 +42,7 @@ const Feed: React.FC = () => {
     {
       id: 2,
       type: 'video',
-      fullUrl 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-02.mp4',
+      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-02.mp4',
       thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-02-thumbnail.webp',
       likes: 432,
       comments: 67,
@@ -54,7 +54,7 @@ const Feed: React.FC = () => {
     {
       id: 3,
       type: 'video',
-      fullUrl 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-03.mp4',
+      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-03.mp4',
       thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-03-thumbnail.webp',
       likes: 189,
       comments: 23,
@@ -66,7 +66,7 @@ const Feed: React.FC = () => {
     {
       id: 5,
       type: 'video',
-      fullUrl 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-04.mp4',
+      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-04.mp4',
       thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-04-thumbnail.webp',
       likes: 432,
       comments: 67,
@@ -78,7 +78,7 @@ const Feed: React.FC = () => {
     {
       id: 6,
       type: 'video',
-      fullUrl 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-05.mp4',
+      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-05.mp4',
       thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-05-thumbnail.webp',
       likes: 189,
       comments: 23,
@@ -90,7 +90,7 @@ const Feed: React.FC = () => {
     {
       id: 4,
       type: 'video',
-      fullUrl 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-06.mp4',
+      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-06.mp4',
       thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-06-thumbnail.webp',
       likes: 567,
       comments: 89,
@@ -102,7 +102,7 @@ const Feed: React.FC = () => {
     {
       id: 7,
       type: 'video',
-      fullUrl 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-07.mp4',
+      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-07.mp4',
       thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-07-thumbnail.webp',
       likes: 567,
       comments: 89,
@@ -114,7 +114,7 @@ const Feed: React.FC = () => {
     {
       id: 8,
       type: 'video',
-      fullUrl 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-08.mp4',
+      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-08.mp4',
       thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-08-thumbnail.webp',
       likes: 567,
       comments: 89,
@@ -126,7 +126,7 @@ const Feed: React.FC = () => {
     {
       id: 9,
       type: 'video',
-      fullUrl 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-09.mp4',
+      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-09.mp4',
       thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-09-thumbnail.webp',
       likes: 567,
       comments: 89,
@@ -138,7 +138,7 @@ const Feed: React.FC = () => {
     {
       id: 10,
       type: 'video',
-      fullUrl 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-10.mp4',
+      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-10.mp4',
       thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-10-thumbnail.webp',
       likes: 567,
       comments: 89,
@@ -150,7 +150,7 @@ const Feed: React.FC = () => {
     {
       id: 11,
       type: 'video',
-      fullUrl 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-11.mp4',
+      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-11.mp4',
       thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-11-thumbnail.webp',
       likes: 567,
       comments: 89,
@@ -162,7 +162,7 @@ const Feed: React.FC = () => {
     {
       id: 12,
       type: 'video',
-      fullUrl 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-12.mp4',
+      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-12.mp4',
       thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-12-thumbnail.webp',
       likes: 567,
       comments: 89,
@@ -174,7 +174,7 @@ const Feed: React.FC = () => {
     {
       id: 13,
       type: 'video',
-      fullUrl 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-13.mp4',
+      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-13.mp4',
       thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-13-thumbnail.webp',
       likes: 567,
       comments: 89,
@@ -186,7 +186,7 @@ const Feed: React.FC = () => {
     {
       id: 14,
       type: 'video',
-      fullUrl 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-14.mp4',
+      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-14.mp4',
       thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-14-thumbnail.webp',
       likes: 567,
       comments: 89,
@@ -198,7 +198,7 @@ const Feed: React.FC = () => {
     {
       id: 15,
       type: 'video',
-      fullUrl 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-15.mp4',
+      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-15.mp4',
       thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-15-thumbnail.webp',
       likes: 567,
       comments: 89,
@@ -210,7 +210,7 @@ const Feed: React.FC = () => {
     {
       id: 16,
       type: 'video',
-      fullUrl 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-16.mp4',
+      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-16.mp4',
       thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-16-thumbnail.webp',
       likes: 567,
       comments: 89,
@@ -222,7 +222,7 @@ const Feed: React.FC = () => {
     {
       id: 17,
       type: 'video',
-      fullUrl 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-17.mp4',
+      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-17.mp4',
       thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-17-thumbnail.webp',
       likes: 567,
       comments: 89,
@@ -234,7 +234,7 @@ const Feed: React.FC = () => {
     {
       id: 18,
       type: 'video',
-      fullUrl 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-18.mp4',
+      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-18.mp4',
       thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-18-thumbnail.webp',
       likes: 567,
       comments: 89,
@@ -455,7 +455,7 @@ const Feed: React.FC = () => {
                     <video
                       ref={(el) => handleVideoRef(post.id, el)}
                       data-video-id={post.id}
-                      src={post.fullUrl}
+                      src={post.fullUrl:}
                       poster={post.thumbnail || undefined}
                       className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-[1.02]"
                       muted
