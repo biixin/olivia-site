@@ -37,7 +37,7 @@ const Feed: React.FC = () => {
       comments: 18,
       profileName: "Daynara",
       profileHandle: "@Daynara",
-      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/10/majoblonde_3723240941839833017s2025-10-6-13.50.791-story-1.jpg"
+      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
       id: 2,
@@ -49,7 +49,7 @@ const Feed: React.FC = () => {
       caption: "Me masturbando gostoso pra vc 😈",
       profileName: "Daynara",
       profileHandle: "@Daynara",
-      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/10/majoblonde_3723240941839833017s2025-10-6-13.50.791-story-1.jpg"
+      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
       id: 3,
@@ -61,7 +61,7 @@ const Feed: React.FC = () => {
       caption: "Bomm dia meus amores... 😘",
       profileName: "Daynara",
       profileHandle: "@Daynara",
-      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/10/majoblonde_3723240941839833017s2025-10-6-13.50.791-story-1.jpg"
+      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
       id: 5,
@@ -97,7 +97,7 @@ const Feed: React.FC = () => {
       caption: " ",
       profileName: "Daynara",
       profileHandle: "@Daynara",
-      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/10/majoblonde_3723240941839833017s2025-10-6-13.50.791-story-1.jpg"
+      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
       id: 7,
@@ -109,7 +109,7 @@ const Feed: React.FC = () => {
       caption: "",
       profileName: "Daynara",
       profileHandle: "@Daynara",
-      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/10/majoblonde_3723240941839833017s2025-10-6-13.50.791-story-1.jpg"
+      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
       id: 8,
@@ -121,7 +121,7 @@ const Feed: React.FC = () => {
       caption: "",
       profileName: "Daynara",
       profileHandle: "@Daynara",
-      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/10/majoblonde_3723240941839833017s2025-10-6-13.50.791-story-1.jpg"
+      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
       id: 9,
@@ -133,7 +133,7 @@ const Feed: React.FC = () => {
       caption: "",
       profileName: "Daynara",
       profileHandle: "@Daynara",
-      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/10/majoblonde_3723240941839833017s2025-10-6-13.50.791-story-1.jpg"
+      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
       id: 10,
@@ -145,7 +145,7 @@ const Feed: React.FC = () => {
       caption: " ",
       profileName: "Daynara",
       profileHandle: "@Daynara",
-      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/10/majoblonde_3723240941839833017s2025-10-6-13.50.791-story-1.jpg"
+      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
       id: 11,
@@ -157,7 +157,7 @@ const Feed: React.FC = () => {
       caption: " ",
       profileName: "Daynara",
       profileHandle: "@Daynara",
-      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/10/majoblonde_3723240941839833017s2025-10-6-13.50.791-story-1.jpg"
+      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
       id: 12,
@@ -169,7 +169,7 @@ const Feed: React.FC = () => {
       caption: " ",
       profileName: "Daynara",
       profileHandle: "@Daynara",
-      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/10/majoblonde_3723240941839833017s2025-10-6-13.50.791-story-1.jpg"
+      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
       id: 13,
@@ -181,7 +181,7 @@ const Feed: React.FC = () => {
       caption: " ",
       profileName: "Daynara",
       profileHandle: "@Daynara",
-      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/10/majoblonde_3723240941839833017s2025-10-6-13.50.791-story-1.jpg"
+      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
       id: 14,
@@ -193,7 +193,7 @@ const Feed: React.FC = () => {
       caption: " ",
       profileName: "Daynara",
       profileHandle: "@Daynara",
-      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/10/majoblonde_3723240941839833017s2025-10-6-13.50.791-story-1.jpg"
+      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
       id: 15,
@@ -205,7 +205,7 @@ const Feed: React.FC = () => {
       caption: " ",
       profileName: "Daynara",
       profileHandle: "@Daynara",
-      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/10/majoblonde_3723240941839833017s2025-10-6-13.50.791-story-1.jpg"
+      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
       id: 16,
@@ -217,7 +217,7 @@ const Feed: React.FC = () => {
       caption: " ",
       profileName: "Daynara",
       profileHandle: "@Daynara",
-      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/10/majoblonde_3723240941839833017s2025-10-6-13.50.791-story-1.jpg"
+      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
       id: 17,
@@ -229,7 +229,7 @@ const Feed: React.FC = () => {
       caption: " ",
       profileName: "Daynara",
       profileHandle: "@Daynara",
-      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/10/majoblonde_3723240941839833017s2025-10-6-13.50.791-story-1.jpg"
+      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
     {
       id: 18,
@@ -241,7 +241,7 @@ const Feed: React.FC = () => {
       caption: " ",
       profileName: "Daynara",
       profileHandle: "@Daynara",
-      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/10/majoblonde_3723240941839833017s2025-10-6-13.50.791-story-1.jpg"
+      profileImage: "https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/UhTvXQrP_400x400.jpg"
     },
   ];
 
