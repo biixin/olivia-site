@@ -101,8 +101,8 @@ function App() {
             </div>
             <span className="text-xs mt-1 font-medium">Feed</span>
           </button>
-          
-         
+          /*
+         {/* 
           
           <button
             onClick={() => handleTabChange('video')}
@@ -131,6 +131,8 @@ function App() {
             </div>
             <span className="text-xs mt-1 font-medium">Chat</span>
           </button>
+
+          comentário aqui */} */
         </div>
       </nav>
     </div>
