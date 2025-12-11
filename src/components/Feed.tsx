@@ -31,8 +31,8 @@ const Feed: React.FC = () => {
     {
       id: 1,
       type: 'video',
-      thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-01.mp4',
-      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-01-thumbnail.webp',
+      thumbnail: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-01-thumbnail.webp ',
+      fullUrl: 'https://media-wordpress.kjufc9.easypanel.host/wp-content/uploads/2025/12/mae-01.mp4',
       likes: 245,
       comments: 18,
       profileName: "Daynara",
